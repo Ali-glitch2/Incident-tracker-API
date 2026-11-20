@@ -1,0 +1,15 @@
+# Virtual environment (rebuild it with: pip install -r requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database file (each person/server creates its own)
+*.db
+
+# Secrets and local settings
+.env
+
+# Editor settings
+.vscode/
